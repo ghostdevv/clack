@@ -8,7 +8,7 @@ import { type CommonOptions, S_BAR, S_BAR_END, symbol } from './common.js';
  */
 export interface TextOptions extends CommonOptions {
 	/**
-	 * The prompt message or question shown to the user above the input.
+	 * The message or question shown to the user above the input.
 	 */
 	message: string;
 
